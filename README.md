@@ -9,5 +9,5 @@ robie jeszcze zmiany
 Upewniam się, że mam najnowszy commit. Zmiany
 
 Zmiany
-
+kon
 ostatni konflikt
