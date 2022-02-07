@@ -10,3 +10,4 @@ Upewniam się, że mam najnowszy commit. Zmiany
 
 Zmiany
 
+ostatni konflikt
